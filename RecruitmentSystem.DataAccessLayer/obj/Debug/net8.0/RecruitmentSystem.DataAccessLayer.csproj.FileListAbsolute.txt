@@ -1,0 +1,14 @@
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\bin\Debug\net8.0\RecruitmentSystem.DataAccessLayer.deps.json
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\bin\Debug\net8.0\RecruitmentSystem.DataAccessLayer.dll
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\bin\Debug\net8.0\RecruitmentSystem.DataAccessLayer.pdb
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\obj\Debug\net8.0\RecruitmentSystem.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\obj\Debug\net8.0\RecruitmentSystem.DataAccessLayer.AssemblyInfoInputs.cache
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\obj\Debug\net8.0\RecruitmentSystem.DataAccessLayer.AssemblyInfo.cs
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\obj\Debug\net8.0\RecruitmentSystem.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\obj\Debug\net8.0\RecruitmentSystem.DataAccessLayer.dll
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\obj\Debug\net8.0\refint\RecruitmentSystem.DataAccessLayer.dll
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\obj\Debug\net8.0\RecruitmentSystem.DataAccessLayer.pdb
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\obj\Debug\net8.0\ref\RecruitmentSystem.DataAccessLayer.dll
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\obj\Debug\net8.0\RecruitmentSystem.DataAccessLayer.csproj.AssemblyReference.cache
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\bin\Debug\net8.0\RecruitmentSystem.DataAccessLayer.runtimeconfig.json
+E:\DEPI\MyProjects\RecruitmentSystem.DataAccessLayer\RecruitmentSystem.DataAccessLayer\obj\Debug\net8.0\RecruitmentSystem.DataAccessLayer.genruntimeconfig.cache
